@@ -83,3 +83,5 @@ Recommendations for Improvement:
 
 Prepared by: Melih Can Orel
 Contact: orelmelihcan@gmail.com
+
+Python version: 3.12.7
