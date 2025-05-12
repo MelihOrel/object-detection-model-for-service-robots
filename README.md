@@ -23,11 +23,7 @@ Images were resized to a standardized dimension of 1600x1200 pixels. Labeling wa
 
 Dataset Distribution:
 
-The dataset was split into two main parts: training and validation. The distribution is shown in Table 1 below:
-Dataset	Train	Val
-Image Count	240	60
-
-Table 1. Dataset distribution
+The dataset was split into two main parts: training 240 img and validation 60 img. 
 
 3. Model Training
 
